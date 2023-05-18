@@ -8,10 +8,10 @@
 }
 
 /* estilos de poder/contendor */
-
+/* version 2*/
 .contenedor{
     height: 800px;
-    background-color: teal;
+    background-color: rgb(211, 43, 1);
     /* flex (funciona con una etiqueta contenedora) */
     display: flex;
     flex-direction: row;
